@@ -51,23 +51,21 @@ plt.show()
 ```
 
 ## Output:
-HEAD(), INFO() & NULL():
+# HEAD(), INFO() & NULL():
+
 ![image](https://github.com/user-attachments/assets/c22cc8bc-d14f-4bd8-8c1c-d7d45307de29)
+# Converting string literals to numerical values using label encoder:
 
-
-Converting string literals to numerical values using label encoder:
 ![image](https://github.com/user-attachments/assets/41e7262e-92d6-4895-87ea-06d6f2c9eaa4)
+# MEAN SQUARED ERROR:
 
-
-MEAN SQUARED ERROR:
 ![image](https://github.com/user-attachments/assets/fd0ab218-5d61-4bd5-b598-f616a324dc0d)
+# R2 (Variance):
 
-
-R2 (Variance):
 ![image](https://github.com/user-attachments/assets/a9e550cf-1e3a-4293-8221-dc6e3b88d945)
 
+# DATA PREDICTION & DECISION TREE REGRESSOR FOR PREDICTING THE SALARY OF THE EMPLOYEE:
 
-DATA PREDICTION & DECISION TREE REGRESSOR FOR PREDICTING THE SALARY OF THE EMPLOYEE:
 ![image](https://github.com/user-attachments/assets/da339180-8173-4a17-8333-9dfa012624a4)
 
 ## Result:
